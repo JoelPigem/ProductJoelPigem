@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProductJoelPigem</string>
+    <string name="camiseta_golden_state_warriors">Camiseta Golden State Warriors</string>
+    <string name="_104_99">104,99 €</string>
+    <string name="camiseta_talla_m">Camiseta Talla M</string>
+    <string name="camiseta_de_l_equip_golden_state_warriors_amb_el_jugador_stephen_curry_a_l_esquena_n_mero_30_camiseta_nba">Camiseta de l\'equip Golden State Warriors, amb el jugador Stephen Curry a l\'esquena. Número 30. Camiseta NBA.</string>
+    <string name="camisetes_equips_nba">Camisetes equips NBA</string>
+    <string name="afegir_a_la_cistella">Afegir a la cistella</string>
+    <string-array name="opcions_spinner">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+
+</resources>
